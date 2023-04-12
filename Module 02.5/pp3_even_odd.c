@@ -7,7 +7,6 @@ void bitwise_AND_UNARY_Operator(int num)
     else
         printf("even\n");
 }
-
 void bitwise_AND_Operator(int num)
 {
     if (num & 1)
