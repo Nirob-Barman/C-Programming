@@ -1,0 +1,7 @@
+97 a 2
+98 b 1
+99 c 1
+Using the String
+a - 2
+b - 1
+c - 1
