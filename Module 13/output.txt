@@ -1,0 +1,4 @@
+Ascending Order
+2 3 4 5 7 
+Descending Order
+7 5 4 3 2 
