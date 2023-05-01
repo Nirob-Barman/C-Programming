@@ -1,0 +1,6 @@
+0061FF14
+0061FF14
+Integer version of address = 6422292
+20
+No change in x = 20
+Change in y using dereference = 500
